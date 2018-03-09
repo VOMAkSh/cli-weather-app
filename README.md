@@ -1,3 +1,5 @@
+Command Line Weather App
+
 This is a very simple command line weather app where default location is set to Delhi, India.
 
 In order to find weather of particular location,
